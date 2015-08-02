@@ -1,0 +1,2 @@
+Nazwa pliku: ./out.txt
+Jakis tam sobie tekst
